@@ -3,7 +3,7 @@
 ### 👩‍💻 About Me:
   
 - 👀 I’m interested in web development, in palticular: web applications focused on accessibility. 
-- 🌱 I’m currently learning c/c++, 
+- 🌱 I’m currently learning Java, 
 - 💞️ I’m looking to collaborate on websites and web applications.
 - 📫 How to reach me: piotrowska.agnieszka1987@gmail.com. 
 - 😄 Pronouns: she/her.
